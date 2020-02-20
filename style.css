@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-weight: 400;
+   color: #05090e;
+    
+}
+.color-text{
+    color: crimson;
+    font-weight: 700;
+    font-size: 50px;
+}
+.condensedlines{
+  font-size: 13pt;
+  line-height: 21pt;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, #b93d56, rgb(173, 48, 73));
+    padding : 10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight:400;
+    width: 40px;
+    height: 20px;
+
+}
