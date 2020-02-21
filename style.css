@@ -30,7 +30,7 @@ b{
     width: 100%;
 }
 .header-bg{
-    background-image: url("Images/header-bg.png");
+    background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
    
     height: 500px;
@@ -53,7 +53,7 @@ section{
 
 }
 .biography-bg{
-    background-image: url("Images/biography-bg.png");
+    background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
     height: 500px;
     padding-top: 250px;
@@ -63,7 +63,7 @@ section{
 }
 .latest-work-bg{
     height: 500px; 
-    background-image: url("Images/latest-work-bg.png");
+    background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
     padding-left: 150px; 
     padding-top: 150px;
@@ -77,7 +77,7 @@ section{
 }
 .footer-bg{
     
-    background-image: url("Images/footer-bg.png");
+    background-image: url("images/footer-bg.png");
     height: 700px;
     text-align: center;
     margin-top:20px;
